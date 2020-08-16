@@ -1576,7 +1576,7 @@ $mbsc-ios-dark-colors: map-merge($mbsc-ios-dark-colors, ('page-background': $mbs
 
 
 
-$mbsc-font-path: '' !default;
+$mbsc-font-path: '../fonts/' !default;
 
 @font-face {
     font-family: 'icons_mobiscroll';
