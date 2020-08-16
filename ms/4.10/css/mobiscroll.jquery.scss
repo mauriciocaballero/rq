@@ -1142,7 +1142,7 @@ $mbsc-ios-dark-colors: map-merge($mbsc-ios-dark-colors, (
 
 
 
-$mbsc-font-path: '../fonts/' !default;
+$mbsc-font-path: '' !default;
 
 @include exports("icons") {
 
